@@ -26,10 +26,10 @@ setInterval(() => {
 }
 
 .full {
-    background-color: red;
+    background-color: rgb(255, 0, 0);
 }
 
 .progress {
-    background-color: blue;
+    background-color: rgb(0, 255, 0);
 }
 </style>
