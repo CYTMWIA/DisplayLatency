@@ -10,6 +10,7 @@ import TimerBar from "./components/TimerBar.vue";
 
 <style scoped>
 #timer {
+  font-family: monospace;
   font-size: 15vh;
   width: max-content;
   margin: auto auto;
